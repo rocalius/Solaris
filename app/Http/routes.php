@@ -20,3 +20,5 @@ Route::get('/admin', function(){
 });
 
 Route::post();
+
+Route::get();
