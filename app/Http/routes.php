@@ -18,3 +18,5 @@ Route::get('/', function () {
 Route::get('/admin', function(){
 	echo "admin";
 });
+
+Route::post();
